@@ -1,2 +1,1 @@
-# ExAuth
-Authentication/Whitelist system for Roblox [Synapse X]
+![alt text](https://github.com/ExosphericDev/ExAuth/blob/main/ExAuth-logo.png?raw=true)
