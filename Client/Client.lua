@@ -2,7 +2,7 @@ local PORT = 3000; --// PORt variable at the end of file in Server/server.js
 
 local AuthKey = "Abc123"
 
--- Thank you lindsley for this ;3
+
 local Encode, Decode
 do
     local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
