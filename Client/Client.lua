@@ -1,4 +1,4 @@
-local PORT = 3000; --// PORt variable at the end of file in Server/server.js
+local PORT = 3000; --// PORT variable at the end of file in Server/server.js
 
 local AuthKey = "Abc123"
 
